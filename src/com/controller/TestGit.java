@@ -6,5 +6,6 @@ public class TestGit {
 
     public void test(){
         List<Student> list=new ArrayList();
+        asdfgfhtygjy;
     }
 }
